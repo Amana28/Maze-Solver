@@ -4,6 +4,10 @@ A maze solving program which implements the depth-first search algorithm
 
 
 
+https://user-images.githubusercontent.com/76058143/143163305-549abe4e-ab51-4bbf-8311-a49d645df01f.mp4
+
+
+
 Depth First Strategy
   - Fix an order on possible neighbors of cells
   e.g., north, east, south, west
